@@ -8,7 +8,7 @@ Role in the project:
 - Front-end developer 
 - System architecture 
 - System analysis
-- Product testing 
+- Usability testing 
 - Database
 - Documentation of project
 
