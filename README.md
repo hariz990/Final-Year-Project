@@ -7,6 +7,7 @@ The idea behing this project is to find an available parking space in Victoria c
 Role in the project: 
 - Front-end developer 
 - System architecture 
+- System analysis
 - Product testing 
 - Database
 - Documentation of project
